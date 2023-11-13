@@ -1,0 +1,16 @@
+Pawntastic is a Java-based console game that implements a simplified version of a pawn-based board game. This implementation of the program provides the ability to play against multiple variations of the MinMax AI Algorithm (with an optional heuristic). Please follow the guidelines below to get started.
+
+Instructions:
+1. To build the Pawntastic project, open terminal and navigate to the project directory where the                  Java package (Pawntastic) and the Program.java files are located. 
+
+2. Compile the Java source files using the following command: javac Program.java
+
+3. Then, to run Pawntastic, use the following command: java Program.java
+
+4. Finally, the game will begin, and you can play Pawntastic against an AI opponent!
+
+Fun fact:
+
+- This project utilizes a stack based tracking mechanism to effectively keep track of the game's states, an essential component of the MinMax algorithm. This results in a drastic reduction in the amount of time and memory required to run the algorithms compared to a naive state saving mechanism.
+
+
